@@ -53,4 +53,4 @@ This modular design ensures efficient, flexible, and maintainable code.
 
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/your-username/rd-stores-billing-system.git
+   git clone https://github.com/MisalPinsara/rd-stores-billing-system.git
